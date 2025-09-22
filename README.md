@@ -1,4 +1,7 @@
-# 📊 Customer Churn Analysis Dashboard (Power BI)
+# 🌟 Customer Churn Analysis Dashboard – Power BI
+
+## 🔥 Why This Project Matters
+Did you know **telecom companies lose up to 30% revenue yearly due to churn**?
 
 ## 📌 Project Overview
 Customer churn (when customers stop using a company’s service) is a major challenge in the telecom industry.  
@@ -10,16 +13,13 @@ The interactive **Power BI Dashboard** includes KPIs, charts, and segmentation t
 
 ## 📂 Dataset
 - **Source**: [Telco Customer Churn (Kaggle)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
-- **Size**: 7,043 records | 21 features  
-- **Key Columns**:  
-  - `customerID` → Unique ID  
-  - `gender` → Male/Female  
-  - `seniorCitizen` → 1/0  
-  - `tenure` → Months customer stayed  
-  - `contract` → Month-to-month / 1 Year / 2 Year  
-  - `monthlyCharges`, `totalCharges`  
-  - `churn` → Yes/No  
-
+- **Size**: 7,043 records | 21 features
+  
+🔑 **Key Data Fields**:
+- Demographics → `gender`, `seniorCitizen`
+- Services → `InternetService`, `Contract`, `PaymentMethod`
+- Revenue → `MonthlyCharges`, `TotalCharges`
+- Target → `Churn (Yes/No)`
 ---
 
 ## 🎯 Project Goals
@@ -39,17 +39,15 @@ The interactive **Power BI Dashboard** includes KPIs, charts, and segmentation t
 
 ---
 
-## 📈 Dashboard Features
-- **KPI Cards** → Churn Rate, Retention Rate, Avg Charges  
-- **Bar Chart** → Churn by Contract Type  
-- **Stacked Bar** → Churn by Gender & Senior Citizen  
-- **Line Chart** → Churn Trend vs. Tenure  
-- **Pie Chart** → Churn by Internet Service  
-- **Donut Chart** → Churn by Payment Method  
-- **Customer Table** → Interactive drill-down  
+## 🚀 Dashboard Highlights
+-  **KPI Cards** – Total Customers, Churn %, Retention %, Avg Monthly Charges
+-  **Bar Charts** – Churn by Contract Type & Gender
+-  **Line Chart** – Churn Trend vs Tenure
+-  **Pie/Donut Charts** – Churn by Internet Service & Payment Method
+-  **Interactive Table** – Drill-down into customer-level data
+
 
 ---
-
 ## 🔍 Insights
 - **Churn is highest (43%)** for **Month-to-Month contracts**.  
 - **Senior Citizens** show higher churn probability.  
@@ -58,14 +56,16 @@ The interactive **Power BI Dashboard** includes KPIs, charts, and segmentation t
 
 ---
 
-## 🛠 Tools Used
-- **Power BI Desktop** (Data Modeling, DAX, Visualization)  
-- **Power Query** (Data Cleaning, Transformation)  
-- **GitHub** (Project Portfolio & Documentation)  
+## 🛠 Tools & Skills Demonstrated
+- **Power BI Desktop** → Interactive dashboard creation
+- **Power Query** → Data cleaning & transformation
+- **DAX** → KPI calculation & business logic
+- **GitHub** → Portfolio & documentation
+
 
 ---
 
-## 📸 Dashboard Preview
+## 📸 Dashboard Snapshot
 ![Dashboard Screenshot](./Assets/ChurnDashboard.png)
 
 ---
