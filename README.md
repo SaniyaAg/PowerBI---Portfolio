@@ -80,5 +80,5 @@ The interactive **Power BI Dashboard** includes KPIs, charts, and segmentation t
 ## ✨ Author
 **Saniya Agrawal**  
 - 🎓 Mechanical Engineering | NIT Surat  
-- 🔗 [LinkedIn Profile](your-linkedin-url)  
+- 🔗 [LinkedIn Profile]([your-linkedin-url](https://www.linkedin.com/in/saniya-agrawal-462b05247/))  
 - 📂 [Portfolio Repository](your-github-link)
