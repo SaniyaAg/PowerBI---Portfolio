@@ -66,7 +66,7 @@ The interactive **Power BI Dashboard** includes KPIs, charts, and segmentation t
 ---
 
 ## 📸 Dashboard Snapshot
-![Dashboard Screenshot](./Assets/ChurnDashboard.png)
+![image alt](https://github.com/SaniyaAg/PowerBI---Portfolio/blob/9e1ccd685aa954beb094f68227d8ccc5a2a8f407/churn_analysis.png)
 
 ---
 
