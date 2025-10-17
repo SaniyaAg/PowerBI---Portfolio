@@ -57,6 +57,60 @@ The dashboard was built in **Power BI** with **DAX-driven KPIs**, dynamic visual
 - **Dynamic Title** → _“📊 Business Performance Overview – Real-Time Insights”_
 
 ### ⚙️ **Page 2 – Supply Chain & Supplier Analytics**  
-- **Clustered Column Chart** → Top 5 Supplie
+- **Clustered Column Chart** → Top 5 Suppliers by Reliability  
+- **Donut Chart** → Late vs On-Time Deliveries  
+- **Bar Chart** → Product Category-wise Profitability  
+- **Map Visualization** → Global Revenue by Country  
+- **AI Smart Narrative** → Automated insights like:  
+  > “🚀 Revenue grew 12% MoM, led by Europe and Consumer Electronics.”  
+  > “⚠️ Late deliveries increased by 8% from Supplier X.”  
+
+---
+
+## 🔍 Insights & Findings  
+- **Electronics category** drives highest revenue (~38%) but has **lowest delivery reliability**.  
+- **Top 10 customers** contribute nearly **50% of total revenue**.  
+- **APAC region** shows consistent monthly growth in profit margin.  
+- **Average late delivery rate** improved by **9% after process optimization**.  
+
+---
+
+## 🛠 Tools & Skills Demonstrated  
+- 🧩 **Power BI Desktop** – interactive dashboards, cross-filtering  
+- 🧮 **DAX** – calculated columns, KPIs, time-intelligence metrics  
+- 🔧 **Power Query** – ETL for raw supply chain data  
+- 🧠 **AI Insights** – Smart Narrative for automatic summaries  
+- 🌐 **GitHub** – portfolio hosting & documentation  
+
+---
+
+## 📸 Dashboard Snapshot  
+![Dashboard Overview](https://github.com/SaniyaAg/PowerBI---Portfolio/blob/main/dataco_dashboard.png)
+
+---
+
+## 🧭 How to Use  
+
+1. Download the `.pbit` or `.pbix` file from the repo:  
+   👉 `/pbix/DataCo_Dashboard_v1.pbit`  
+2. Place your dataset (`DataCo_Sample_Data.csv`) in `/data/` folder.  
+3. Open the `.pbit` in **Power BI Desktop**.  
+4. When prompted, set the parameter **`DataFilePath`** to your CSV location.  
+5. Click **Refresh** → Dashboard auto-loads with your data!  
+
+---
+
+## 💡 Future Enhancements  
+- Add **forecasting visuals** for sales & logistics using Power BI’s analytics pane.  
+- Integrate **Power Automate** to alert managers when delivery KPIs drop below target.  
+- Include **RLS (Row-Level Security)** for department-wise restricted dashboards.  
+
+---
+
+## ✨ Author  
+**Saniya Agrawal**  
+🎓 Mechanical Engineering | NIT Surat  
+🔗 [LinkedIn Profile](your-linkedin-link)  
+📂 [Power BI Portfolio Repository](your-github-link)
 
 
