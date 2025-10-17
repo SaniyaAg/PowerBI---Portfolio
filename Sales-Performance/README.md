@@ -104,7 +104,7 @@ The dashboard was built in **Power BI** with **DAX-driven KPIs**, dynamic visual
 ## ✨ Author  
 **Saniya Agrawal**  
 🎓 Mechanical Engineering | NIT Surat  
-🔗 [LinkedIn Profile](your-linkedin-link)  
-📂 [Power BI Portfolio Repository](your-github-link)
+🔗 [LinkedIn Profile]([your-linkedin-link](https://www.linkedin.com/in/saniya-agrawal-462b05247/))  
+📂 [Power BI Portfolio Repository]([your-github-link](https://github.com/SaniyaAg/PowerBI---Portfolio))
 
 
