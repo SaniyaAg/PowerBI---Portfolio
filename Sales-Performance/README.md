@@ -59,8 +59,7 @@ The dashboard was built in **Power BI** with **DAX-driven KPIs**, dynamic visual
 ### ⚙️ **Page 2 – Supply Chain & Supplier Analytics**  
 - **Clustered Column Chart** → Top 5 Suppliers by Reliability  
 - **Donut Chart** → Late vs On-Time Deliveries  
-- **Bar Chart** → Product Category-wise Profitability  
-- **Map Visualization** → Global Revenue by Country  
+- **Bar Chart** → Product Category-wise Profitability   
 - **AI Smart Narrative** → Automated insights like:  
   > “🚀 Revenue grew 12% MoM, led by Europe and Consumer Electronics.”  
   > “⚠️ Late deliveries increased by 8% from Supplier X.”  
@@ -81,11 +80,6 @@ The dashboard was built in **Power BI** with **DAX-driven KPIs**, dynamic visual
 - 🔧 **Power Query** – ETL for raw supply chain data  
 - 🧠 **AI Insights** – Smart Narrative for automatic summaries  
 - 🌐 **GitHub** – portfolio hosting & documentation  
-
----
-
-## 📸 Dashboard Snapshot  
-![Dashboard Overview](https://github.com/SaniyaAg/PowerBI---Portfolio/blob/main/dataco_dashboard.png)
 
 ---
 
