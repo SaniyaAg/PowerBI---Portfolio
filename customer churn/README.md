@@ -103,6 +103,3 @@ The interactive **Power BI Dashboard** includes KPIs, charts, and segmentation t
 ---
 
 > ⚡ *“Turning churn data into retention stories — because every customer counts.”*
-- 🎓 Mechanical Engineering | NIT Surat  
-- 🔗 [LinkedIn Profile]()  
-- 📂 [Portfolio Repository](your-github-link)
