@@ -1,110 +1,89 @@
-# 🚚 DataCo Smart Supply Chain Dashboard – Power BI  
+# 🚀 Supply Chain & Logistics Analytics Dashboard – Power BI  
 
-## 🔥 Why This Project Matters  
-Did you know **inefficient supply chains cost global businesses over $1.9 trillion annually** due to late deliveries, poor inventory planning, and supplier unreliability?  
+## 🌟 Overview  
+In today’s fast-paced global markets, supply chain efficiency defines business success.  
+This Power BI project provides a **data-driven view of logistics performance**, focusing on delivery reliability, profitability, and market performance.  
 
-This dashboard helps businesses **optimize their supply chain performance** through real-time visibility into **sales, logistics, supplier reliability, and delivery efficiency**.  
-
----
-
-## 📌 Project Overview  
-The **DataCo Smart Supply Chain Dashboard** transforms raw operational data into actionable business insights.  
-It helps decision-makers monitor **profitability, delivery performance, supplier reliability**, and **customer satisfaction** — all in one place.  
-
-The dashboard was built in **Power BI** with **DAX-driven KPIs**, dynamic visuals, and AI-powered narratives to help industries make **data-driven operational decisions**.  
+It highlights how businesses can optimize supplier reliability, enhance on-time delivery, and boost profit margins through powerful insights.  
 
 ---
 
-## 📂 Dataset  
-- **Source**: [DataCo Smart Supply Chain Dataset (Kaggle)](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)  
-- **Size**: 180K+ records | 53 columns  
+## 📊 Dashboard Pages  
 
-🔑 **Key Data Fields**:  
-- **Sales & Profit** → `Sales`, `Profit`, `Order Item Quantity`, `Product Name`, `Product Category`  
-- **Logistics** → `Order Date`, `Days for shipping (real)`, `Days for shipment scheduled`, `Delivery Status`  
-- **Customer** → `Customer Id`, `Market`, `Region`, `Country`  
-- **Supplier** → `Supplier Name`, `Type`, `Reliability Metric`  
+### **📈 Page 1: Executive Dashboard – Business Health at a Glance**  
+![Executive Dashboard](https://github.com/YourGitHubUser/PowerBI-Portfolio/blob/main/git%20page%201.png)  
 
----
+This page delivers a **C-suite snapshot** of overall supply chain health — ideal for decision-makers.  
 
-## 🎯 Project Goals  
-- Measure and analyze **Revenue, Profit Margin, and Delivery KPIs**  
-- Identify **top markets, products, and customers by sales and profit**  
-- Track **supplier reliability** and **on-time delivery performance**  
-- Provide **AI-powered insights** for strategic business improvement  
+**✨ KPIs Displayed:**  
+- 💰 **Total Revenue:** ₹36.8M  
+- 📦 **Total Orders:** 180.5K  
+- 👥 **Total Customers:** 20.7K  
+- 🚚 **On-Time Delivery %:** 0.2  
+- 🔁 **Retention Rate:** 0.6  
 
----
-
-## 📊 Key KPIs  
-- 💰 **Total Revenue**  
-- 📈 **Profit Margin (%)**  
-- 👥 **Total Customers**  
-- 🔁 **Retention Rate (%)**  
-- 🚚 **On-Time Delivery (%)**  
-- 📦 **Supplier Reliability (%)**  
-- 💸 **Customer Lifetime Value (CLV)**  
+**📊 Visual Insights:**  
+- **Delivery Analytics:** On-time vs late deliveries with trend lines.  
+- **Profit Margin Trend:** Month-wise profitability tracking.  
+- **Supplier Reliability %:** Identify top-performing vendors.  
+- **Top 5 Markets & Customers by Revenue:** Highlighting key business contributors.  
+- **AI-Generated Business Insights Panel:**  
+  - ⚠️ *EU delays = 18% → churn risk.*  
+  - 💡 *Top 5 customers = 60% revenue → dependency alert.*  
+  - 🌍 *APAC +15% growth → expansion opportunity.*  
+  - 🔄 *Retention at 61% → loyalty program suggested.*  
 
 ---
 
-## 🚀 Dashboard Highlights  
+### **💹 Page 2: Profitability & Market Analysis Dashboard**  
+![Profitability Dashboard](https://github.com/YourGitHubUser/PowerBI-Portfolio/blob/main/gitm2.png)  
 
-### 🧭 **Page 1 – Executive Overview**  
-- **Smart KPI Cards** (with icons & sparklines): Revenue, Profit %, Retention, Delivery %  
-- **Combo Chart** → Revenue vs Profit Trend (by Month)  
-- **Bar Chart** → Top 5 Markets by Revenue  
-- **Table (Data Bars)** → Top 5 Customers by Revenue  
-- **Traffic Light Indicators** → Delivery Performance (🟢🟡🔴)  
-- **Dynamic Title** → _“📊 Business Performance Overview – Real-Time Insights”_
+This page dives deep into **regional sales, category profit, and overall growth performance**.  
 
-### ⚙️ **Page 2 – Supply Chain & Supplier Analytics**  
-- **Clustered Column Chart** → Top 5 Suppliers by Reliability  
-- **Donut Chart** → Late vs On-Time Deliveries  
-- **Bar Chart** → Product Category-wise Profitability   
-- **AI Smart Narrative** → Automated insights like:  
-  > “🚀 Revenue grew 12% MoM, led by Europe and Consumer Electronics.”  
-  > “⚠️ Late deliveries increased by 8% from Supplier X.”  
+**✨ KPIs Displayed:**  
+- 💰 Total Revenue – ₹36.8M  
+- 📈 Total Profit – ₹4.0M  
+- 📉 Profit Margin – 10.8%  
+- 📦 Total Units Sold – 384.1K  
 
----
+**📊 Visual Insights:**  
+- **Revenue vs Profit Trend:** Track growth and margin stability.  
+- **Profit Margin by Product Category:** Find underperforming categories.  
+- **Total Revenue by Category (Donut Chart):** Visual product contribution.  
+- **Regional Bubble Chart:** Compare total profit, orders, and sales across markets.  
 
-## 🔍 Insights & Findings  
-- **Electronics category** drives highest revenue (~38%) but has **lowest delivery reliability**.  
-- **Top 10 customers** contribute nearly **50% of total revenue**.  
-- **APAC region** shows consistent monthly growth in profit margin.  
-- **Average late delivery rate** improved by **9% after process optimization**.  
+**🧠 Key Business Insights:**  
+- 🔍 *Revenue grew by 60.6% MoM, led by APAC region.*  
+- ⚙️ *Profit margin dipped → suggests need for cost optimization.*  
+- 💎 *Central region logistics can improve profit by 5–7%.*  
+- 🎯 *Focus on high-CLV (top 10%) customers to increase retention.*  
+- 🪄 *Furniture & Electronics segments = high ROI opportunities.*  
 
 ---
 
-## 🛠 Tools & Skills Demonstrated  
-- 🧩 **Power BI Desktop** – interactive dashboards, cross-filtering  
-- 🧮 **DAX** – calculated columns, KPIs, time-intelligence metrics  
-- 🔧 **Power Query** – ETL for raw supply chain data  
-- 🧠 **AI Insights** – Smart Narrative for automatic summaries  
-- 🌐 **GitHub** – portfolio hosting & documentation  
+## 🧠 Tools & Techniques Used  
+- **Power BI Desktop** → Interactive visuals & storytelling  
+- **Power Query** → Data cleaning and transformation  
+- **DAX** → KPI & trendline calculations  
+- **GitHub** → Portfolio hosting and documentation  
 
 ---
 
-## 🧭 How to Use  
-
-1. Download the `.pbit` or `.pbix` file from the repo:  
-   👉 `/pbix/DataCo_Dashboard_v1.pbit`  
-2. Place your dataset (`DataCo_Sample_Data.csv`) in `/data/` folder.  
-3. Open the `.pbit` in **Power BI Desktop**.  
-4. When prompted, set the parameter **`DataFilePath`** to your CSV location.  
-5. Click **Refresh** → Dashboard auto-loads with your data!  
+## 📂 How to Use  
+1. Clone or download this repository.  
+2. Open the `.pbix` file in **Power BI Desktop**.  
+3. Load your dataset or connect live to update KPIs.  
+4. Explore slicers (region, product, month) for instant insights.  
 
 ---
 
-## 💡 Future Enhancements  
-- Add **forecasting visuals** for sales & logistics using Power BI’s analytics pane.  
-- Integrate **Power Automate** to alert managers when delivery KPIs drop below target.  
-- Include **RLS (Row-Level Security)** for department-wise restricted dashboards.  
+## 💼 Author  
+👩‍💻 **Saniya Agrawal**  
+🎓 B.Tech Mechanical Engineering | NIT Surat  
+📍 Passionate about **Data Analytics, R&D, and Automation**  
+🔗 [LinkedIn Profile](https://linkedin.com/in/your-link)  
+📁 [Portfolio Repository](https://github.com/SaniyaAg/PowerBI-Portfolio)  
 
 ---
 
-## ✨ Author  
-**Saniya Agrawal**  
-🎓 Mechanical Engineering | NIT Surat  
-🔗 [LinkedIn Profile]([your-linkedin-link](https://www.linkedin.com/in/saniya-agrawal-462b05247/))  
-📂 [Power BI Portfolio Repository]([your-github-link](https://github.com/SaniyaAg/PowerBI---Portfolio))
-
-
+⭐ *“Turning complex supply chains into simple, actionable insights.”*  
