@@ -4,8 +4,7 @@
 Did you know **telecom companies lose up to 30% revenue yearly due to churn**?
 
 ## 📌 Project Overview
-Customer churn (when customers stop using a company’s service) is a major challenge in the telecom industry.  
-This project analyzes customer churn data to uncover **patterns, KPIs, and insights** that can help improve customer retention.
+
 This **interactive Power BI dashboard** gives a complete snapshot of **customer churn performance** for a telecom company.  
 It helps identify **why customers leave**, uncover **key retention drivers**, and measure **business health at a glance**.  
 
