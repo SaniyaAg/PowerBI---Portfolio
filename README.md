@@ -19,7 +19,7 @@ This repository highlights my ability to design **insightful, interactive dashbo
 - Built Power BI visuals for demographics, contracts, and payment methods.  
 - **Key Insight:** 43% churn in month-to-month contracts — long-term plans improve retention.  
 
-📁 [View Project →](./Customer-Churn-Analysis)
+📁 [View Project →](https://github.com/SaniyaAg/PowerBI---Portfolio/tree/main/customer%20churn)
 
 ---
 
@@ -28,7 +28,7 @@ This repository highlights my ability to design **insightful, interactive dashbo
 - Designed an executive dashboard with KPIs, maps, and trend lines.  
 - **Key Insight:** West region leads sales, but Central region lags in profit margin.  
 
-📁 [View Project →](./Sales-Performance)
+📁 [View Project →](https://github.com/SaniyaAg/PowerBI---Portfolio/tree/main/Sales-Performance)
 
 ---
 
