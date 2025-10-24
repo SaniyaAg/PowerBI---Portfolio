@@ -1,53 +1,68 @@
-# 📊 Power BI Projects Portfolio
+# 💼 Power BI Projects – Interactive Business Dashboards
 
-Welcome to my **Power BI Portfolio Repository**!  
-This collection showcases my end-to-end work in **data analysis, visualization, and business intelligence** using **Power BI** — from data cleaning and DAX modeling to dashboard design and insight generation.
-
----
-
-## 🧠 About
-I’m **Saniya Agrawal**, a Mechanical Engineer from **NIT Surat**, passionate about **data-driven problem-solving** and **transforming raw data into business insights** through analytical dashboards.  
-This repository highlights my ability to design **insightful, interactive dashboards** that enable informed decision-making.
+Welcome to my **Power BI portfolio**, where I showcase data-driven business insights through real-world dashboards.  
+Each project demonstrates my ability to transform raw data into meaningful visual stories that support business decisions.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects Overview
 
-### 🧩 [Customer Churn Analysis Dashboard](./Customer-Churn-Analysis)
-- Analyzed telecom churn data (7,000+ records) to identify patterns and risk factors.  
-- Designed KPIs: Churn Rate, Retention %, ARPU, etc.  
-- Built Power BI visuals for demographics, contracts, and payment methods.  
-- **Key Insight:** 43% churn in month-to-month contracts — long-term plans improve retention.  
-
-📁 [View Project →](https://github.com/SaniyaAg/PowerBI---Portfolio/tree/main/customer%20churn)
+| Project | Description | Dataset Source |
+|----------|--------------|----------------|
+| **📊 Customer Churn Analysis** | Telecom churn insights to identify at-risk customers and improve retention. | [Telco Customer Churn – Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) |
+| **🏭 Supply Chain Analytics (DataCo)** | Analyze profitability, delivery reliability, and operational KPIs for a global supply chain. | [DataCo Smart Supply Chain – Kaggle](https://www.kaggle.com/datasets/ashoksmukesh/dataco-smart-supply-chain-for-big-data-analysis) |
 
 ---
 
-### 💼 [Sales Performance Dashboard](./Sales-Performance)
-- Analyzed company-wide sales and profitability by region, category, and product.  
-- Designed an executive dashboard with KPIs, maps, and trend lines.  
-- **Key Insight:** West region leads sales, but Central region lags in profit margin.  
-
-📁 [View Project →](https://github.com/SaniyaAg/PowerBI---Portfolio/tree/main/Sales-Performance)
-
----
-
-## 🛠 Tools & Skills Demonstrated
-| Category | Tools / Skills |
-|-----------|----------------|
-| **Visualization** | Power BI Desktop, Dashboard Design |
-| **Data Handling** | Power Query, DAX, Data Modeling |
-| **Analysis** | KPI Creation, Trend Analysis, Segmentation |
-| **Version Control** | GitHub Documentation & Versioning |
+## 🧠 Skills Highlighted
+- **Power BI Desktop** → Dashboard design, visual storytelling, KPI setup  
+- **DAX (Data Analysis Expressions)** → Advanced measures and calculated columns  
+- **Power Query** → Data cleaning, transformation & modeling  
+- **GitHub Documentation** → Reproducible and professional project presentation  
+- **Business Domain Understanding** → Telecom & Supply Chain analytics  
 
 ---
 
-## 📸 Dashboard Gallery
-| Project | Preview |
-|----------|----------|
-| Customer Churn Analysis | ![Churn Dashboard](https://github.com/SaniyaAg/PowerBI---Portfolio/blob/9e1ccd685aa954beb094f68227d8ccc5a2a8f407/churn_analysis.png) |
-| Sales Performance | ![Sales Dashboard](https://github.com/SaniyaAg/PowerBI---Portfolio/blob/main/sales_dashboard.png) |
+## 📂 Repository Structure
+
+```bash
+PowerBI-Projects/
+│
+├── 📁 Customer-Churn-Analysis/
+│   ├── churn_dashboard.pbix
+│   ├── churn_analysis.png
+│   └── README.md
+│
+├── 📁 Supply-Chain-Analytics/
+│   ├── dataco_supplychain.pbix
+│   ├── supplychain_dashboard.png
+│   └── README.md
+│
+└── README.md  ← (You are here)
 
 ---
 
-## 📂 Folder Structure
+## 📌 How to Explore
+1. Choose a project folder above.  
+2. Download the `.pbix` file.  
+3. Open in **Power BI Desktop**.  
+4. Explore the dashboard interactively using slicers and filters.  
+
+---
+
+## 👩‍💻 About Me
+I’m **Saniya Agrawal**, a final-year **Mechanical Engineering student at NIT Surat** with a passion for  
+**data-driven problem solving**, **automation**, and **interactive visualization**.
+
+I enjoy using **Power BI** to uncover insights, simplify complexity, and tell stories that drive smarter engineering and business decisions.  
+
+🔗 [LinkedIn](your-linkedin-link) | 💼 [Portfolio Repository](your-github-link)
+
+---
+
+## ✨ Let’s Connect
+If you find my projects interesting or want to collaborate, feel free to connect!  
+⭐ Don’t forget to **star this repository** if you liked my work — it truly means a lot 😊
+
+> “Turning data into decisions, one dashboard at a time.”
+
