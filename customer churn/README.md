@@ -6,6 +6,11 @@ Did you know **telecom companies lose up to 30% revenue yearly due to churn**?
 ## 📌 Project Overview
 Customer churn (when customers stop using a company’s service) is a major challenge in the telecom industry.  
 This project analyzes customer churn data to uncover **patterns, KPIs, and insights** that can help improve customer retention.
+This **interactive Power BI dashboard** gives a complete snapshot of **customer churn performance** for a telecom company.  
+It helps identify **why customers leave**, uncover **key retention drivers**, and measure **business health at a glance**.  
+
+> 💡 Designed to empower managers, analysts, and executives with **data-driven decisions** in real time.
+
 
 The interactive **Power BI Dashboard** includes KPIs, charts, and segmentation to support **data-driven decision making**.
 
@@ -31,28 +36,42 @@ The interactive **Power BI Dashboard** includes KPIs, charts, and segmentation t
 ---
 
 ## 📊 Key KPIs
-- **Total Customers**  
-- **Churned Customers**  
-- **Churn Rate (%)**  
-- **Retention Rate (%)**  
-- **Average Monthly Charges (ARPU)**  
+| Metric | Description |
+|--------|--------------|
+| 👥 **Total Customers** | 7,043 active users |
+| ❌ **Churn Rate** | 27% of customers stopped services |
+| 🔁 **Retention Rate** | 73% retained |
+| 💰 **Total Revenue** | ₹16.06M generated |
+| 📈 **Avg Monthly Charges** | ₹65 per customer |
+| 💳 **Churned Customers** | 1,869 total |
 
 ---
 
 ## 🚀 Dashboard Highlights
--  **KPI Cards** – Total Customers, Churn %, Retention %, Avg Monthly Charges
--  **Bar Charts** – Churn by Contract Type & Gender
--  **Line Chart** – Churn Trend vs Tenure
--  **Pie/Donut Charts** – Churn by Internet Service & Payment Method
--  **Interactive Table** – Drill-down into customer-level data
 
+### 🔹 Churn Rate & Retention by Contract  
+📊 *Month-to-month users churn the most (43%)* — focus on converting to annual plans.  
+
+### 🔹 Internet Service Impact  
+🥇 *Fiber Optic customers* show the **highest churn** – pricing and performance review needed.  
+
+### 🔹 Payment Method Comparison  
+💸 *Electronic Check users churn 2× more* than AutoPay – push for digital payment options.  
+
+### 🔹 Churn vs Tenure  
+📉 *New users (<6 months)* are most likely to leave — onboarding improvements can reduce churn.  
+
+### 🔹 Senior Citizen Segment  
+🧓 *Senior citizens churn 1.4× higher* — highlight need for simplified service plans and better support.
 
 ---
-## 🔍 Insights
-- **Churn is highest (43%)** for **Month-to-Month contracts**.  
-- **Senior Citizens** show higher churn probability.  
-- Customers using **Fiber Optic** churn more than DSL.  
-- Customers with **Electronic Check payments** churn significantly more than AutoPay users.  
+
+
+## 💡 Key Insights & Strategy Panel  
+- 📊 Total churn stands at **26.6%**, mostly from short-term contracts.  
+- 💳 Electronic check payments drive **higher churn (48%)**.  
+- 🧓 Senior citizens are **1.4× more likely** to churn than younger users.  
+- 🚀 Retention improves **after 6 months** of tenure.  
 
 ---
 
@@ -79,6 +98,12 @@ The interactive **Power BI Dashboard** includes KPIs, charts, and segmentation t
 
 ## ✨ Author
 **Saniya Agrawal**  
+🎓 Mechanical Engineering | NIT Surat  
+🔗 [LinkedIn Profile]() | 📂 [Power BI Projects Repository](your-github-link)
+
+---
+
+> ⚡ *“Turning churn data into retention stories — because every customer counts.”*
 - 🎓 Mechanical Engineering | NIT Surat  
 - 🔗 [LinkedIn Profile]()  
 - 📂 [Portfolio Repository](your-github-link)
