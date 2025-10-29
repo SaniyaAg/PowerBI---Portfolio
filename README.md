@@ -1,29 +1,39 @@
-# 💼 Power BI Projects – Interactive Business Dashboards
+# 🌟 Power BI Portfolio by Saniya Agrawal
 
-Welcome to my **Power BI portfolio**, where I showcase data-driven business insights through real-world dashboards.  
-Each project demonstrates my ability to transform raw data into meaningful visual stories that support business decisions.
-
----
-
-## 🚀 Projects Overview
-
-| Project | Description | Dataset Source |
-|----------|--------------|----------------|
-| **📊 Customer Churn Analysis** | Telecom churn insights to identify at-risk customers and improve retention. | [Telco Customer Churn – Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) |
-| **🏭 Supply Chain Analytics (DataCo)** | Analyze profitability, delivery reliability, and operational KPIs for a global supply chain. | [DataCo Smart Supply Chain – Kaggle](https://www.kaggle.com/datasets/ashoksmukesh/dataco-smart-supply-chain-for-big-data-analysis) |
+Welcome to my Power BI project space!  
+This repo is where I explore **real-world business problems** through **data, design, and storytelling**.  
+Each dashboard here isn’t just a collection of charts — it’s a step toward understanding how businesses grow, retain customers, and optimize operations.
 
 ---
 
-## 🧠 Skills Highlighted
-- **Power BI Desktop** → Dashboard design, visual storytelling, KPI setup  
-- **DAX (Data Analysis Expressions)** → Advanced measures and calculated columns  
-- **Power Query** → Data cleaning, transformation & modeling  
-- **GitHub Documentation** → Reproducible and professional project presentation  
-- **Business Domain Understanding** → Telecom & Supply Chain analytics  
+## 💼 Projects Included
+
+| Project | Focus Area | Dataset |
+|----------|-------------|----------|
+| **📊 Customer Churn Analysis** | Understanding why customers leave and how to retain them. | [Telco Customer Churn – Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) |
+| **🏭 Supply Chain Analytics (DataCo)** | Tracking revenue, profit, delivery reliability & customer value. | [DataCo Smart Supply Chain – Kaggle](https://www.kaggle.com/datasets/ashoksmukesh/dataco-smart-supply-chain-for-big-data-analysis) |
 
 ---
 
-## 📂 Repository Structure
+## 🚀 What You’ll Learn Here
+Each project is designed to:
+- **Transform raw data into insights** using Power Query & DAX  
+- **Visualize KPIs** like revenue, churn rate, and delivery performance  
+- **Build dashboards that speak to business teams**, not just analysts  
+- **Demonstrate real decision-making impact** through clean design & storytelling  
+
+---
+
+## 🧠 Tech Stack & Skills
+- 🟡 **Power BI Desktop** – dashboard design & visual storytelling  
+- 🧮 **DAX Measures** – advanced business calculations  
+- 🔄 **Power Query** – data cleaning & modeling  
+- 📈 **Business Intelligence** – turning data into strategic insight  
+- 🧰 **GitHub Portfolio** – version control & documentation  
+
+---
+
+## 📂 Repository Layout
 
 ```bash
 PowerBI-Projects/
@@ -38,31 +48,4 @@ PowerBI-Projects/
 │   ├── supplychain_dashboard.png
 │   └── README.md
 │
-└── README.md  ← (You are here)
-
----
-
-## 📌 How to Explore
-1. Choose a project folder above.  
-2. Download the `.pbix` file.  
-3. Open in **Power BI Desktop**.  
-4. Explore the dashboard interactively using slicers and filters.  
-
----
-
-## 👩‍💻 About Me
-I’m **Saniya Agrawal**, a final-year **Mechanical Engineering student at NIT Surat** with a passion for  
-**data-driven problem solving**, **automation**, and **interactive visualization**.
-
-I enjoy using **Power BI** to uncover insights, simplify complexity, and tell stories that drive smarter engineering and business decisions.  
-
-🔗 [LinkedIn](your-linkedin-link) | 💼 [Portfolio Repository](your-github-link)
-
----
-
-## ✨ Let’s Connect
-If you find my projects interesting or want to collaborate, feel free to connect!  
-⭐ Don’t forget to **star this repository** if you liked my work — it truly means a lot 😊
-
-> “Turning data into decisions, one dashboard at a time.”
-
+└── README.md  ← You are here
