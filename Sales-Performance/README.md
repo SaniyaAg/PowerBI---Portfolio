@@ -38,7 +38,7 @@ This page delivers a **C-suite snapshot** of overall supply chain health — ide
 ### **💹 Page 2: Profitability & Market Analysis Dashboard**  
 ![Profitability Dashboard](https://github.com/SaniyaAg/PowerBI---Portfolio/blob/3a712f786a9979b5179f26a8ff2031bc82cf2136/Sales-Performance/visuals/git%20page%202.png)  
 
-This page dives deep into **regional sales, category profit, and overall growth performance**.  
+This page dives deep into **regional sales, category profit, and overall growth performance with dynamic page heading**.  
 
 **✨ KPIs Displayed:**  
 - 💰 Total Revenue – ₹36.8M  
